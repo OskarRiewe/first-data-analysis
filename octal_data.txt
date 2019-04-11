@@ -1,7 +1,7 @@
 14 5
 44 0	zmianamdruga
 74 5
-126 20
+126 20siema
 155 40
 205 24zmiana
 236 25
