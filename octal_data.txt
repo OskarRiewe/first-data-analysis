@@ -1,9 +1,9 @@
 14 5
-44 0	zmiana pierwsza
+44 0	zmianamdruga
 74 5
 126 20
 155 40
-205 24
+205 24zmiana
 236 25
 265 31
 315 31
